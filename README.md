@@ -3,8 +3,7 @@
 ## Project Resources
 - ["Main" - consolidated program code only.](https://github.com/jancichocki/Module_12_Challenge/blob/main/Main.ipynb)
 - ["credit_risk_resampling.ipynb" - Full completed project walk through.](https://github.com/jancichocki/Module_12_Challenge/blob/main/credit_risk_resampling.ipynb)
-
-## [Answers to Key Questions](#answers-to-key-questions)
+- [Answers to Key Questions](#answers-to-key-questions)
 
 ## Overview
 This project tackles the challenge of credit risk classification, a fundamental issue in the finance industry. Credit risk poses a classification problem that's inherently imbalanced, as healthy loans significantly outnumber risky ones. Utilizing a dataset of historical lending activity from a peer-to-peer lending services company, this project aims to build a model that can accurately identify the creditworthiness of borrowers.
